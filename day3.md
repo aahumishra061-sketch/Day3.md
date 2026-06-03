@@ -1,4 +1,4 @@
-(this is response without role based prompt)
+⭐(this is response without role based prompt)
 
 Here are the **best ways** a Sales Executive should respond when customer says price is high 👇
 
@@ -53,7 +53,7 @@ Here are the **best ways** a Sales Executive should respond when customer says p
 - ~~"Main kuch nahi kar sakta"~~
 - ~~"Yeh toh fixed price hai"
 
-(this is with role based prompt)
+⭐(this is with role based prompt)
 Here are some smart & professional ways a sales executive might respond 😊
 
 ---
